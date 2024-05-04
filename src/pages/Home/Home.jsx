@@ -37,7 +37,11 @@ function Home() {
             <div className='container d-flex flex-column align-items-center'>
                 <h2>Welcome To</h2>
                 <h1 className='text-center fw-semibold'>Mahikeng Technical College</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, fugit? Doloremque deserunt ipsum eaque, dolor tempore, minima nisi debitis, et quas voluptatibus nam ex. Necessitatibus eligendi ratione expedita! Porro, ut.</p>
+                <p>At Mahikeng Technical College, we're all about launching you into a career you love, not just handing you a piece of paper. We ditch the lectures and dive straight into hands-on learning. Imagine troubleshooting real-world problems with cutting-edge equipment, not memorizing facts. That's the Mahikeng difference.
+
+Here, learning is more than just grades. You'll high-five classmates who become lifelong friends, share ideas in a supportive environment, and build a network that goes beyond the classroom. We don't just teach you, we connect you with industry experts – the coolest people in your field who will mentor you and share their experience.
+
+Mahikeng Technical College isn't about getting qualified, it's about getting career-ready. We'll equip you with the skills and confidence to crush it in your chosen field. Ditch the boring and dive into awesome. Explore our programs and see how we can turn your passion into a job that rocks! </p>
                 <div className='d-flex flex-column flex-sm-row align-items-center'>
                     <Link to="/courses">
                         <button type='button' className='btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0'>Our Courses</button>
@@ -58,7 +62,7 @@ function Home() {
                 <div className='row d-flex align-items-center justify-content-around'>
                     <div className='col-lg-5'>
                         <h2 className='text-capitalize'>2024 start courses</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, placeat.</p>
+                        <p>Looking to turn your passion into a career? Mahikeng Technical College offers a variety of programs to launch you into your dream job. We specialize in Engineering, focusing on practical skills, as well as programs in Education and broader Studies.  Explore our options and find your perfect fit!</p>
                         <Link to="/courses">
                             <button type='button' className='btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0'>Learn More</button>
                         </Link>
